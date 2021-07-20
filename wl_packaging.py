@@ -35,8 +35,12 @@ if return_val_packaging == 0:
     print_with_elapsed_time('Packaging done!')
 
     # Create folders
-    os.makedirs('dist/Wordless/Import', exist_ok = True)
-    os.makedirs('dist/Wordless/Export', exist_ok = True)
+    if platform.system() in ['Windows', 'Linux']:
+        os.makedirs('dist/Wordless/Import')
+        os.makedirs('dist/Wordless/Export')
+    elif platform.system() == 'Darwin':
+        os.makedirs('dist/Wordless.app/Contents/Macos/Import')
+        os.makedirs('dist/Wordless.app/Contents/Macos/Export')
 
     if platform.system() == 'Windows':
         # Compress files
