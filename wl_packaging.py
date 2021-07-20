@@ -25,11 +25,11 @@ time_start = time.time()
 print_with_elapsed_time('Start packaging...')
 
 if platform.system() == 'Windows':
-    return_val_packaging = subprocess.call('pyinstaller --noconfirm wl_packaging.spec', shell = True)
+    return_val_packaging = subprocess.call('pyinstaller --noconfirm --clean wl_packaging.spec', shell = True)
 elif platform.system() == 'Darwin':
-    return_val_packaging = subprocess.call('python3 -m PyInstaller --noconfirm wl_packaging.spec', shell = True)
+    return_val_packaging = subprocess.call('python3 -m PyInstaller --noconfirm --clean wl_packaging.spec', shell = True)
 elif platform.system() == 'Linux':
-    return_val_packaging = subprocess.call('python3.8 -m PyInstaller --noconfirm wl_packaging.spec', shell = True)
+    return_val_packaging = subprocess.call('python3.8 -m PyInstaller --noconfirm --clean wl_packaging.spec', shell = True)
 
 if return_val_packaging == 0:
     print_with_elapsed_time('Packaging done!')
@@ -64,6 +64,10 @@ if return_val_packaging == 0:
         if os.path.exists('wl_settings.pickle'):
             os.remove('wl_settings.pickle')
     elif platform.system() == 'Darwin':
+        # See: https://github.com/pyinstaller/pyinstaller/issues/5062#issuecomment-683743556
+        # * The following command does not work on OS X 10.11
+        subprocess.call(f"codesign --remove-signature {os.path.join(os.getcwd(), 'Wordless.app/Contents/Macos/Python')}", shell = True)
+
         # Compress files
         print_with_elapsed_time('Compressing files...')
 
