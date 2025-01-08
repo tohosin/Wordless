@@ -26,6 +26,7 @@ The following lists are not intended to be exhaustive and are just for reference
 
 <div align="center"><h2>Journal Articles</h2></div>
 
+1. Bi, Y., & Tan, H. (2024). Jiyu yuliaoku de Zhongyiwai guojia fanyi shijian Yingyi wenben keduxing yanjiu [A corpus-based study of readability in the English translations funded by the State Translation Program]. *Fanyi yanjiu yu jiaoxue*, *2024*(3), 45–53.
 1. Chang, Y. (2020). A corpus-based comparative study of translation universals in two English translations of Li Sao. *Journal of Literature and Art Studies*, *10*(10), 916–922. https://doi.org/10.17265/2159-5836/2020.10.007
 1. Dai, Z., & Liu, H. (2024). Part-of-speech features in Bob Dylan’s song lyrics: A stylometric analysis. *International Journal of Humanities and Arts Computing*, *18*(2), 249–264. https://doi.org/10.3366/ijhac.2024.0335
 1. Fu, L., & Liu, L. (2024). What are the differences? A comparative study of generative artificial intelligence translation and human translation of scientific texts. *Humanities and Social Sciences Communications*, *11*, Article 1236. https://doi.org/10.1057/s41599-024-03726-7
@@ -53,6 +54,7 @@ The following lists are not intended to be exhaustive and are just for reference
 
 <div align="center"><h2>Master’s Theses</h2></div>
 
+1. Cai, H. (2023). *A report on the E-C translation of Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World (chapters 3-4)* [Master’s thesis, Chongqing University]. CNKI. https://link.cnki.net/doi/10.27670/d.cnki.gcqdu.2023.001396
 1. Chen, J. (2024). *Jiyu yuliaoku de chuzhongsheng Yingyu xiezuo cihui fengfuxing de xingdong yanjiu* [A corpus-based action research on the lexical richness in English writing for junior high school students] [Master’s thesis, Jimei University]. CNKI. https://link.cnki.net/doi/10.27720/d.cnki.gjmdx.2024.000102
 1. Kang, Z. (2023). *Investigating the translator's style: A corpus-based analysis of Howard Goldblatt's style in his English translations of Mo Yan's novels* [Master’s thesis, Beijing Foreign Studies University]. CNKI. https://link.cnki.net/doi/10.26962/d.cnki.gbjwu.2023.000867
 1. Li, S. (2023). *A corpus-based study on the international image of China: A case study of On Building a Human Community With a Shared Future* [Master’s thesis, Hebei University]. CNKI. https://link.cnki.net/doi/10.27103/d.cnki.ghebu.2023.000324
@@ -61,6 +63,7 @@ The following lists are not intended to be exhaustive and are just for reference
 1. Lv, R. (2020). *A comparative study of acceptability of three English versions of Wenxin Diaolong* [Master’s thesis, Wuhan University of Technology]. Wanfang Data. https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMjMyMDc1MhoIMjdsMzc4YTM%3D
 1. Ma, L. (2023). *Kōkō·daigaku ni okeru Nihongo kyōkasho no renketsu ni kansuru kenkyū: “Futsū Kōkō Kyōkasho Nigo” to “Shinseki Daigaku Nigo” o rei ni* [A study on the articulation between the high school and college Japanese textbooks: A case study of High School Japanese and New Century Japanese] [Master’s thesis, Harbin Normal University]. CNKI. https://link.cnki.net/doi/10.27064/d.cnki.ghasu.2023.001925
 1. Ma, X. (2024). *Applying semantic prosody for machine translation improvement on English-Chinese passive sentences* [Master’s thesis, University of Barcelona]. Dipòsit Digital de la Universitat de Barcelona. http://hdl.handle.net/2445/215937
+1. Meng, H. (2022). *A report on C-E translation practice from the perspective of technical communication: A case study of Writing in the Techinical Fields: A Practical Guide (chapter 1 and chapter 4)* [Master’s thesis, Chongqing University of Posts and Telecommunications]. CNKI. https://link.cnki.net/doi/10.27675/d.cnki.gcydx.2022.000561
 1. Shen, Y. (2020). *On the influence of translator's habitus on translation: A case study of the two English versions of Bian Cheng* [Master’s thesis, Shanghai International Studies University]. CNKI. https://link.cnki.net/doi/10.27316/d.cnki.gswyu.2020.000479
 1. Xie, S. (2024). *Marketing Higher Education: Understanding How to Build and Promote the University Brand（Chapters10-11）Yinghan fanyi shijian baogao* [English-Chinese translation practice report of Marketing Higher Education: Understanding How to Build and Promote the University Brand (Chapters 10-11)] [Master’s thesis, Heilongjiang University]. CNKI. https://link.cnki.net/doi/10.27123/d.cnki.ghlju.2024.001057
 1. Yan, M. (2023). *A comparative study on the translation styles of three English versions of Na Han and Pang Huang* [Master’s thesis, Beijing Foreign Studies University]. CNKI. https://link.cnki.net/doi/10.26962/d.cnki.gbjwu.2023.000337

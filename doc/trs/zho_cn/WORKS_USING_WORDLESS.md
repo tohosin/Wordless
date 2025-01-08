@@ -26,6 +26,7 @@
 
 <div align="center"><h2>期刊论文</h2></div>
 
+1. 毕玉德, & 谭华. (2024). 基于语料库的中译外国家翻译实践英译文本可读性研究. *翻译研究与教学*, *2024*(3), 45–53.
 1. Chang, Y. (2020). A corpus-based comparative study of translation universals in two English translations of Li Sao. *Journal of Literature and Art Studies*, *10*(10), 916–922. https://doi.org/10.17265/2159-5836/2020.10.007
 1. Dai, Z., & Liu, H. (2024). Part-of-speech features in Bob Dylan’s song lyrics: A stylometric analysis. *International Journal of Humanities and Arts Computing*, *18*(2), 249–264. https://doi.org/10.3366/ijhac.2024.0335
 1. Fu, L., & Liu, L. (2024). What are the differences? A comparative study of generative artificial intelligence translation and human translation of scientific texts. *Humanities and Social Sciences Communications*, *11*, Article 1236. https://doi.org/10.1057/s41599-024-03726-7
@@ -53,6 +54,7 @@
 
 <div align="center"><h2>硕士论文</h2></div>
 
+1. 蔡慧. (2023). *A report on the E-C translation of Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World (chapters 3-4)* [Master’s thesis, 重庆大学]. CNKI. https://link.cnki.net/doi/10.27670/d.cnki.gcqdu.2023.001396
 1. 陈佳惠. (2024). *基于语料库的初中生英语写作词汇丰富性的行动研究* [Master’s thesis, 集美大学]. CNKI. https://link.cnki.net/doi/10.27720/d.cnki.gjmdx.2024.000102
 1. 康政. (2023). *Investigating the translator's style: A corpus-based analysis of Howard Goldblatt's style in his English translations of Mo Yan's novels* [Master’s thesis, 北京外国语大学]. CNKI. https://link.cnki.net/doi/10.26962/d.cnki.gbjwu.2023.000867
 1. 李硕. (2023). *A corpus-based study on the international image of China: A case study of on building a human community with a shared future* [Master’s thesis, 河北大学]. CNKI. https://link.cnki.net/doi/10.27103/d.cnki.ghebu.2023.000324
@@ -61,6 +63,7 @@
 1. 吕荣. (2020). *A comparative study of acceptability of three English versions of Wenxin Diaolong* [Master’s thesis, 武汉理工大学]. 万方. https://d.wanfangdata.com.cn/thesis/ChJUaGVzaXNOZXdTMjAyMzA5MDESCUQwMjMyMDc1MhoIMjdsMzc4YTM%3D
 1. 马琳. (2023). *高校·大学における日本語教科書の連結に関する研究: 『普通高校教科書 日語』と『新世紀大学日語』を例に* [Master’s thesis, 哈尔滨师范大学]. CNKI. https://link.cnki.net/doi/10.27064/d.cnki.ghasu.2023.001925
 1. Ma, X. (2024). *Applying semantic prosody for machine translation improvement on English-Chinese passive sentences* [Master’s thesis, University of Barcelona]. Dipòsit Digital de la Universitat de Barcelona. http://hdl.handle.net/2445/215937
+1. 孟浩. (2022). *A report on C-E translation practice from the perspective of technical communication: A case study of Writing in the Techinical Fields: A Practical Guide (chapter 1 and chapter 4)* [Master’s thesis, 重庆邮电大学]. CNKI. https://link.cnki.net/doi/10.27675/d.cnki.gcydx.2022.000561
 1. 沈雅楠. (2020). *On the influence of translator's habitus on translation: A case study of the two English versions of Bian Cheng* [Master’s thesis, 上海外国语大学]. CNKI. https://link.cnki.net/doi/10.27316/d.cnki.gswyu.2020.000479
 1. 谢诗婧. (2024). *Marketing Higher Education: Understanding How to Build and Promote the University Brand（Chapters10-11）英汉翻译实践报告* [Master’s thesis, 黑龙江大学]. CNKI. https://link.cnki.net/doi/10.27123/d.cnki.ghlju.2024.001057
 1. 严明. (2023). *A comparative study on the translation styles of three English versions of Na Han and Pang Huang* [Master’s thesis, 北京外国语大学]. CNKI. https://link.cnki.net/doi/10.26962/d.cnki.gbjwu.2023.000337
